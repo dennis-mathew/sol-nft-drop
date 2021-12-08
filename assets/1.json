@@ -1,0 +1,19 @@
+{
+    "name": "Meg1",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "Cf21QPRJrdu4n1ajxk6Y589VUizsMQyvB4D63Um33yTS",
+          "share": 100
+        }
+      ]
+    }
+  }
